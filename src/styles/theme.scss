@@ -1,0 +1,17 @@
+$brand-red: #e1251b;  /* 首页/礼遇/财富/贷款 主色 */
+$brand-blue:#2a7de1;  /* 贷款页顶部蓝渐变 */
+$text: #1f2329; $sub:#8a8f99; $bg:#f6f7fb; $card:#ffffff; $radius: 16rpx;
+
+.page { background: $bg; min-height: 100vh; }
+.card { background: $card; border-radius: $radius; padding: 24rpx; }
+.h-gap { height: 24rpx; }
+.tag { font-size: 22rpx; color: $sub; background:#f0f2f5; border-radius: 8rpx; padding: 6rpx 10rpx; }
+.btn-primary { background: $brand-red; color:#fff; border-radius: 999rpx; padding: 14rpx 24rpx; }
+.grid{ display:grid; gap: 24rpx; }
+.grid-4{ grid-template-columns: repeat(4,1fr); }
+.icon-56{ width: 56rpx; height:56rpx; }
+.icon-72{ width: 72rpx; height:72rpx; }
+.title-lg{ font-weight: 600; font-size: 32rpx; }
+.row{ display:flex; align-items:center; }
+.space-between{ justify-content: space-between; }
+.banner{ border-radius: $radius; overflow:hidden; }

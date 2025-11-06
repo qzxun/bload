@@ -1,0 +1,13 @@
+{
+  "/ghb_financing/financing/index.html": "/ghb_financing_new/index.html#/ghb_financing_new/index/index",
+  "/ghb_balance/smart_deposit/index.html": "/ghb_deposit/index.html#/ghb_deposit/index",
+  "/ghb_myfinancial_calendar/calendar/index.html": "/ghb_finance_calendar/index.html#/ghb_finance_calendar/index",
+  "/ghb_account/my_account/index.html": "/ghb_account_new/index.html/#/ghb_account_new/index",
+  "/ghb_fund/fund/index.html": "/ghb_myfund_new/index.html/#/ghb_myfund_new/index",
+  "/ghb_my_fund/my_fund/hold_fund_details.html": "/ghb_myfund_trasaction/index.html/#/ghb_myfund_trasaction/index",
+  "/ghb_my_fund/my_fund/transaction_recor_detail.html": "/ghb_myfund_new/index.html/#/ghb_myfund_new/singleFundTransaction/index",
+  "/ghb_balance/large_deposit/index.html": "/ghb_large_deposit/index.html#/ghb_large_deposit/index",
+  "/ghb_settings/settings/app_push_msg_set.html": "/ghb_msg_center/index.html#/ghb_msg_center/setting",
+  "/ghb_balance/smart_deposit/flexible_deposit_list.html": "/ghb_deposit/index.html#/ghb_deposit/index",
+  "/ghb_financing/my_financing/index.html?defaultIndex=1": "/ghb_financing_new/index.html#/ghb_financing_new/index/index?defaultIndex=1"
+}

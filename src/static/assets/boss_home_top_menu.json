@@ -1,0 +1,36 @@
+{
+  "menuList": [
+    {
+      "menuNo": "",
+      "menuName": "账户查询",
+      "menuTigLogin": "1",
+      "menuSkipType": "",
+      "menuPageLink": "/tbm_account_qry/index.html#/tbm_account_qry/accountList",
+      "menuImgUploadname": "R.mipmap.legal_main_top_icon_2"
+    },
+    {
+      "menuNo": "",
+      "menuName": "银企对账",
+      "menuTigLogin": "1",
+      "menuSkipType": "",
+      "menuPageLink": "/tbm_BERecon/index.html#/tbm_BERecon/index",
+      "menuImgUploadname": "R.mipmap.legal_main_top_icon_3"
+    },
+    {
+      "menuNo": "",
+      "menuName": "业务预约",
+      "menuTigLogin": "1",
+      "menuSkipType": "",
+      "menuPageLink": "https://www.ghibank.com.cn/eweb/#/wechat/preLicensing/index",
+      "menuImgUploadname": "R.mipmap.legal_main_top_icon_4"
+    },
+    {
+      "menuNo": "",
+      "menuName": "电子回单2",
+      "menuTigLogin": "1",
+      "menuSkipType": "",
+      "menuPageLink": "/tbm_receipt_print/index.html#/tbm_receipt_print/index",
+      "menuImgUploadname": "R.mipmap.legal_main_top_icon_1"
+    }
+  ]
+}

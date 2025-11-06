@@ -1,0 +1,42 @@
+[
+  {
+    "imgUrl": "R.mipmap.ic_default_home_top_menu_zhanghu_detail",
+    "label": "账户查询",
+    "labelCN": "账户查询",
+    "linkUrl": "/ghb_account_new/index.html#/ghb_account_new/index",
+    "needLogin": "1",
+    "redNumber": 0,
+    "value": "1",
+    "title": "首页顶部宫格和广告"
+  },
+  {
+    "imgUrl": "R.mipmap.ic_default_home_top_menu_detail",
+    "label": "明细查询",
+    "labelCN": "明细查询",
+    "linkUrl": "/ghb_grid/transaction/index.html",
+    "needLogin": "1",
+    "redNumber": 0,
+    "value": "2",
+    "title": "首页顶部宫格和广告"
+  },
+  {
+    "imgUrl": "R.mipmap.ic_default_home_top_menu_zhuanzhang",
+    "label": "转账",
+    "labelCN": "转账",
+    "linkUrl": "/ghb_transfer_transaction/index.html#/ghb_transfer_transaction/index/index",
+    "needLogin": "1",
+    "redNumber": 0,
+    "value": "3",
+    "title": "首页顶部宫格和广告"
+  },
+  {
+    "imgUrl": "R.mipmap.ic_default_home_top_menu_asset",
+    "label": "资产总览",
+    "labelCN": "资产总览",
+    "linkUrl": "/ghb_account_assets/asset_overview/index.html",
+    "needLogin": "1",
+    "redNumber": 0,
+    "value": "4",
+    "title": "首页顶部宫格和广告"
+  }
+]

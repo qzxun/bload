@@ -1,0 +1,38 @@
+[
+  {
+    "imgUrl": "R.drawable.ic_default_mine_top_menu_zhuanzhang_normal",
+    "label": "转账",
+    "labelCN": "转账",
+    "linkUrl": "/ghb_transfer_transaction/index.html#/ghb_transfer_transaction/index/index",
+    "needLogin": "0",
+    "redNumber": 0,
+    "value": "9"
+  },
+  {
+    "imgUrl": "R.drawable.ic_default_mine_top_menu_licai_normal",
+    "label": "理财",
+    "labelCN": "理财",
+    "linkUrl": "/ghb_financing_new/index.html#/ghb_financing_new/index/index",
+    "needLogin": "0",
+    "redNumber": 0,
+    "value": "10"
+  },
+  {
+    "imgUrl": "R.drawable.ic_default_mine_top_menu_cunkuan_normal",
+    "label": "存款",
+    "labelCN": "存款",
+    "linkUrl": "/ghb_deposit/index.html#/ghb_deposit/index",
+    "needLogin": "0",
+    "redNumber": 0,
+    "value": "11"
+  },
+  {
+    "imgUrl": "R.drawable.ic_default_mine_top_menu_jiaoyi_detail_normal",
+    "label": "交易查询",
+    "labelCN": "交易查询",
+    "linkUrl": "/ghb_account_new/index.html#/ghb_account_new/index",
+    "needLogin": "0",
+    "redNumber": 0,
+    "value": "12"
+  }
+]

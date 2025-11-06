@@ -1,0 +1,66 @@
+{
+  "defaultList": [
+    {
+      "imgUrl": "DEFAULT_wodeedu.png",
+      "label": "我的额度",
+      "linkUrl": "/ghb_common/index.html#/ghb_common/myLimit/index",
+      "needLogin": "true"
+    },
+    {
+      "imgUrl": "DEFAULT_daihuanzhangdan.png",
+      "label": "待还账单",
+      "linkUrl": "/ghb_repayment/repayment/repayment_list.html",
+      "needLogin": "true"
+    },
+    {
+      "imgUrl": "DEFAULT_loans_jhkcx.png",
+      "label": "借还款",
+      "linkUrl": "/ghb_loan/loan_record/loan_list.html",
+      "needLogin": "true"
+    },
+    {
+      "imgUrl": "DEFAULT_daikuanzijinzhuanchu.png",
+      "label": "资金转出",
+      "linkUrl": "/ghb_transfer_transaction/index.html#/ghb_transfer_transaction/fundsRemittance/index",
+      "needLogin": "true"
+    },
+    {
+      "imgUrl": "",
+      "label": "全部",
+      "linkUrl": "/ghb_all_grid/index.html#/ghb_all_grid/index?pagePath=3",
+      "needLogin": ""
+    }
+  ],
+  "personalList": [
+    {
+      "imgUrl": "PERSONAL_wodeedu.png",
+      "label": "我的额度",
+      "linkUrl": "/ghb_common/index.html#/ghb_common/myLimit/index",
+      "needLogin": "true"
+    },
+    {
+      "imgUrl": "PERSONAL_daihuanzhangdan.png",
+      "label": "待还账单",
+      "linkUrl": "/ghb_repayment/repayment/repayment_list.html",
+      "needLogin": "true"
+    },
+    {
+      "imgUrl": "PERSONAL_loans_jhkcx.png",
+      "label": "借还款",
+      "linkUrl": "/ghb_loan/loan_record/loan_list.html",
+      "needLogin": "true"
+    },
+    {
+      "imgUrl": "PERSONAL_daikuanzijinzhuanchu.png",
+      "label": "资金转出",
+      "linkUrl": "/ghb_transfer_transaction/index.html#/ghb_transfer_transaction/fundsRemittance/index",
+      "needLogin": "true"
+    },
+    {
+      "imgUrl": "",
+      "label": "全部",
+      "linkUrl": "/ghb_all_grid/index.html#/ghb_all_grid/index?pagePath=3",
+      "needLogin": ""
+    }
+  ]
+}

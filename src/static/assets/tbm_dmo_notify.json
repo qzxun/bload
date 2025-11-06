@@ -1,0 +1,22 @@
+{
+  "notifyList": [
+    {
+      "enterpriseType": "0",
+      "messageContent": "演示公告一"
+    },
+    {
+      "enterpriseType": "0",
+      "messageContent": "演示公告二"
+    },
+    {
+      "enterpriseType": "1",
+      "messageContent": "您有1个【银企对账】业务待处理",
+      "messageUrl": "/tbm_billReceipt/index.html#/tbm_billReceipt/billAccept"
+    },
+    {
+      "enterpriseType": "1",
+      "messageContent": "您有1个【平台代发】业务待处理",
+      "messageUrl": "/tbm_payroll/index.html#/tbm_payroll/index/list"
+    }
+  ]
+}

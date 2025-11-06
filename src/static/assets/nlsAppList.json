@@ -1,0 +1,25 @@
+{
+    "appList": {
+        "nls_index": "40190000",
+        "nls_award_credit_new": "40190001",
+        "nls_borrow_new": "40190002",
+        "nls_quick_loan": "40230001",
+        "nls_bill": "40190003",
+        "nls_underthe_line_new": "40190004",
+        "nls_information_colle": "40190005",
+        "nls_good_loan": "40190006",
+        "nls_contract_details": "40190007",
+        "nls_loan_management": "40230002",
+        "nls_add_relatedPerson": "40190008",
+        "nls_carefree_loan": "40190009",
+        "nls_one_borrow": "40230003",
+        "nls_car_loan": "40190010",
+        "nls_textile_industry": "40190011",
+        "nls_tide_borrow": "40190012",
+        "nls_wqd_loan": "40190013",
+        "nls_xxd_one_borrow": "40190014",
+        "nls_xked_loan_apply": "40230004",
+        "nls_commonCustInfo": "40230005",
+        "nls_videoRecording": "40190015"
+    }
+}

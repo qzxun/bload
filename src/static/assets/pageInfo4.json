@@ -1,0 +1,75 @@
+{
+  "pageInfo": {
+    "ghb_myfund_new/index": {
+      "transparentTitle": "always",
+      "hasTitle": "false"
+    },
+    "ghb_myfund_new/index.html#/ghb_myfund_new/holdDetail/index": {
+      "transparentTitle": "always"
+    },
+    "ghb_myfund_new/index.html#/ghb_myfund_new/transactionRules/index": {
+      "transparentTitle": "always"
+    },
+    "ghb_financing_new/index.html#/ghb_financing_new/financingHold/MoreTab": {
+      "transparentTitle": "always"
+    },
+    "ghb_financing_new/index.html#/ghb_financing_new/index/index": {
+      "transparentTitle": "always",
+      "hasTitle": "false"
+    },
+    "ghb_financing_new/index.html#/ghb_financing_new/index/currentSeries": {
+      "transparentTitle": "always"
+    },
+    "ghb_financing_new/index.html#/ghb_financing_new/index/smartSelection": {
+      "transparentTitle": "always"
+    },
+    "ghb_financing_new/index.html#/ghb_financing_new/wealthManager/index": {
+      "transparentTitle": "always"
+    },
+    "ghb_transfer_mobile/index.html#/ghb_transfer_mobile/index/index": {
+      "hasTitle": "false"
+    },
+    "ghb_account_new/index.html#/ghb_account_new/addOtherCard": {
+      "transparentTitle": "always"
+    },
+    "ghb_common/index.html#/ghb_common/selectBankPage": {
+      "transparentTitle": "always"
+    },
+    "ghb_financing_new/index.html#/ghb_financing_new/index/financingPK/index": {
+      "transparentTitle": "always"
+    },
+    "ghb_financing_new/index.html#/ghb_financing_new/index/financingPK/financingPK/compareResults": {
+      "transparentTitle": "always"
+    },
+    "ghb_financing_new/index.html#/ghb_financing_new/details/NavChartsDetails": {
+      "transparentTitle": "always"
+    },
+    "ghb_consumer_protection/brand_endorsement/index": {
+      "transparentTitle": "always"
+    },
+    "ghb_large_deposit/index": {
+      "transparentTitle": "always"
+    },
+    "ghb_large_deposit/purchase/details": {
+      "transparentTitle": "always"
+    },
+    "ghb_large_deposit/purchase/index": {
+      "transparentTitle": "always"
+    },
+    "ghb_large_deposit/draw/index": {
+      "transparentTitle": "always"
+    },
+    "ghb_large_deposit/draw/input": {
+      "transparentTitle": "always"
+    },
+    "ghb_deposit/transRecord/deal": {
+      "transparentTitle": "always"
+    },
+    "ghb_property_evaluation/property/evaluate_result": {
+      "hasTitle": "false"
+    },
+    "ghb_property_evaluation/property/house_detail": {
+      "hasTitle": "false"
+    }
+  }
+}

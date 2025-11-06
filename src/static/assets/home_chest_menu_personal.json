@@ -1,0 +1,42 @@
+[
+  {
+    "imgUrl": "personal-box_grid_anquanzhongxin",
+    "value": "",
+    "memberof": "安全中心",
+    "isSelect": "",
+    "label": "安全中心",
+    "linkUrl": "/ghb_security_center/index.html#/ghb_security_center/securityCenter/loading",
+    "needLogin": "true",
+    "title": "6.0百宝箱菜单"
+  },
+  {
+    "imgUrl": "personal-box_grid_wangdianchaxun",
+    "value": "grid051",
+    "memberof": "网点查询",
+    "isSelect": "false",
+    "label": "网点查询",
+    "linkUrl": "/ghb_network_query/network_query/index.html",
+    "needLogin": "false",
+    "title": "6.0百宝箱菜单"
+  },
+  {
+    "imgUrl": "personal-box_grid_jinrongrili",
+    "value": "",
+    "memberof": "金融日历",
+    "isSelect": "",
+    "label": "金融日历",
+    "linkUrl": "/ghb_finance_calendar/index.html#/ghb_finance_calendar/index",
+    "needLogin": "true",
+    "title": "6.0百宝箱菜单"
+  },
+  {
+    "imgUrl": "personal-box_grid_fangchanpinggu",
+    "value": "",
+    "memberof": "房产评估",
+    "isSelect": "",
+    "label": "房产评估",
+    "linkUrl": "/ghb_property_evaluation/property/blank.html",
+    "needLogin": "true",
+    "title": "6.0百宝箱菜单"
+  }
+]

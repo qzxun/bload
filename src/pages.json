@@ -1,0 +1,29 @@
+{
+  "pages": [
+	  { "path": "pages/lock/index", "style": { "navigationBarTitleText": "手势解锁", "navigationStyle": "custom" } }
+    { "path": "pages/home/index", "style": { "navigationBarTitleText": "首页", "navigationStyle": "custom" } },
+    { "path": "pages/gift/index", "style": { "navigationBarTitleText": "礼遇", "navigationStyle": "custom" } },
+    { "path": "pages/wealth/index", "style": { "navigationBarTitleText": "财富", "navigationStyle": "custom" } },
+    { "path": "pages/loan/index", "style": { "navigationBarTitleText": "贷款", "navigationStyle": "custom" } },
+    { "path": "pages/mine/index", "style": { "navigationBarTitleText": "我的", "navigationStyle": "custom" } }
+  ],
+  "tabBar": {
+    "color": "#9aa0a6",
+    "selectedColor": "#e1251b",
+    "backgroundColor": "#ffffff",
+    "borderStyle": "black",
+    "list": [
+      { "pagePath": "pages/home/index",  "text": "首页", "iconPath": "static/tab/home.png",   "selectedIconPath": "static/tab/home_sel.png" },
+      { "pagePath": "pages/gift/index",  "text": "礼遇", "iconPath": "static/tab/gift.png",   "selectedIconPath": "static/tab/gift_sel.png" },
+      { "pagePath": "pages/wealth/index","text": "财富", "iconPath": "static/tab/wealth.png", "selectedIconPath": "static/tab/wealth_sel.png" },
+      { "pagePath": "pages/loan/index",  "text": "贷款", "iconPath": "static/tab/loan.png",   "selectedIconPath": "static/tab/loan_sel.png" },
+      { "pagePath": "pages/mine/index",  "text": "我的", "iconPath": "static/tab/mine.png",   "selectedIconPath": "static/tab/mine_sel.png" }
+    ]
+  },
+  "globalStyle": {
+    "navigationBarTextStyle": "white",
+    "navigationBarBackgroundColor": "#e1251b",
+    "backgroundColor": "#f6f7fb",
+    "app-plus": { "background": "#f6f7fb" }
+  }
+}

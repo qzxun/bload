@@ -1,0 +1,26 @@
+[
+  {
+    "key":"h5_useLastCommitUrl",
+    "value":"YES"
+  },
+  {
+    "value": "NO",
+    "key": "h5_shouldverifyapp"
+  },
+  {
+    "value": "1",
+    "key": "TSBS"
+  },
+  {
+    "value": "{\"config\":{\"al\":\"3\",\"pr\":{\"4\":\"86400\",\"common\":\"864000\"},\"ur\":\"7200\",\"fpr\":{\"common\":\"3888000\"}},\"switch\":\"yes\"}",
+    "key": "h5_nbmngconfig"
+  },
+  {
+    "key": "h5_remote_debug_host",
+    "value": "wss://cn-hangzhou-mproxy.cloud.alipay.com/host/"
+  },
+  {
+    "value": "NO",
+    "key": "mp_ta_use_orginal_mini_nagivationbar"
+  }
+]

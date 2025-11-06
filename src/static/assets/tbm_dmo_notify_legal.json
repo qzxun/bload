@@ -1,0 +1,12 @@
+{
+  "notifyList": [
+    {
+      "enterpriseType": "0",
+      "messageContent": "演示公告一"
+    },
+    {
+      "enterpriseType": "0",
+      "messageContent": "演示公告二"
+    }
+  ]
+}

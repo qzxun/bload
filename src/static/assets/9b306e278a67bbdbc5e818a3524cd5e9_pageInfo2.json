@@ -1,0 +1,164 @@
+{
+  "pageInfo": {
+    "ghb_transfer_market/financing_transfer/detail": {
+      "transparentTitle": "always"
+    },
+    "ghb_fund/fund_product/investment_introduction": {
+      "hasTitle": "false"
+    },
+    "ghb_fund/fund_product/investment_list": {
+      "hasTitle": "false"
+    },
+    "ghb_fund/fund_product/share_poster": {
+      "hasTitle": "false"
+    },
+    "ghb_insurance/share_poster/index": {
+      "hasTitle": "false"
+    },
+    "ghb_insurance/share_poster/qrCode": {
+      "hasTitle": "false"
+    },
+    "ghb_member/member/sel_address": {
+      "hasTitle": "false"
+    },
+    "ghb_new_balance/new_deposit/share_poster": {
+      "hasTitle": "false"
+    },
+    "ghb_offline_loans/loan_type/nls_product_particulars_person": {
+      "hasTitle": "false"
+    },
+    "ghb_qixingbao/qixingbao/my_qixingbao": {
+      "hasTitle": "false"
+    },
+    "nls_award_credit/tax_load_application/tallageLoanNav": {
+      "transparentTitle": "always"
+    },
+    "nls_award_credit/share_poster/index": {
+      "hasTitle": "false"
+    },
+    "nls_award_credit/share_poster/qrCode": {
+      "hasTitle": "false"
+    },
+    "ghb_account_information/assets_certification/open_assets_certification": {
+      "hasTitle": "false"
+    },
+    "ghb_network_query/network_query/index": {
+      "hasTitle": "false"
+    },
+    "ghb_network_query/network_list/index": {
+      "hasTitle": "false"
+    },
+    "ghb_wage_financial/my_finance/sign_the_plan": {
+      "transparentTitle": "always"
+    },
+    "ghb_about_us/headlines/index": {
+      "hasTitle": "false"
+    },
+    "ghb_information/information/finance_economics": {
+      "hasTitle": "false"
+    },
+    "ghb_information/information/private_headline": {
+      "hasTitle": "false"
+    },
+    "ghb_login_safety/version_switch/index": {
+      "hasTitle": "false"
+    },
+    "ghb_trustBuy/mainProcess/sign": {
+      "hasTitle": "false"
+    },
+    "ghb_trustBuy/certification/sign": {
+      "hasTitle": "false"
+    },
+    "ghb_campus_payment/campus_payment/index": {
+      "hasTitle": "false"
+    },
+    "ghb_campus_payment/unit_search/index": {
+      "hasTitle": "false"
+    },
+    "ghb_openCard_Assessment/openCard_Assessment/complete_questionnaire": {
+      "hasTitle": "false"
+    },
+    "ghb_openCard_Assessment/openCard_Assessment/index": {
+      "transparentTitle": "always"
+    },
+    "ghb_openCard_Assessment/openCard_Assessment/introduce": {
+      "hasTitle": "false"
+    },
+    "ghb_salary/salary/index": {
+      "transparentTitle": "always"
+    },
+    "ghb_loan_recording/recording/index": {
+      "transparentTitle": "always"
+    },
+    "ghb_fund/fund_product/new_fund_list": {
+      "hasTitle": "false"
+    },
+    "ghb_member/member/record": {
+      "transparentTitle": "always"
+    },
+    "ghb_transfer_market/large_depoit_transfer/match_transfer": {
+      "transparentTitle": "always"
+    },
+    "ghb_assessment_questionnaire/assessment_questionnaire/risk_assessment_questionnaire_new": {
+      "transparentTitle": "always"
+    },
+    "ghb_help/help_center/beginner_guidance": {
+      "hasTitle": "false"
+    },
+    "ghb_openCard_Assessment/openCard_Assessment/userInfo": {
+      "hasTitle": "false"
+    },
+    "ghb_balance_plus/portfolio_detail/finance_detail": {
+      "transparentTitle": "always"
+    },
+    "ghb_transfer_market/large_depoit_transfer/list": {
+      "transparentTitle": "always"
+    },
+    "ghb_transfer_market/large_depoit_transfer/direction_transfer": {
+      "transparentTitle": "always"
+    },
+    "ghb_integral_bill/sign/index": {
+      "transparentTitle": "always"
+    },
+    "ghb_integral_bill/sign/regulation": {
+      "transparentTitle": "always"
+    },
+    "ghb_northbound/fund/index": {
+      "transparentTitle": "always"
+    },
+    "ghb_northbound/investment_amount/index": {
+      "transparentTitle": "always"
+    },
+    "ghb_my_fund/my_fund/fund_convert": {
+      "hasTitle": "false"
+    },
+    "ghb_grid/transaction/electronicReceipt": {
+      "hasTitle": "false"
+    },
+    "ghb_grid/transaction/electronicList": {
+      "hasTitle": "false"
+    },
+    "ghb_recommend_carefullyChosen/footprint/index": {
+      "hasTitle": "false"
+    },
+    "ghb_grid/all_grid/new_grid": {
+      "transparentTitle": "always",
+      "hasTitle": "false"
+    },
+    "ghb_financing_ex/share_poster/index": {
+      "hasTitle": "false"
+    },
+    "ghb_financing_ex/share_poster/qrCode": {
+      "hasTitle": "false"
+    },
+    "ghb_grid_ex/all_grid/new_grid": {
+      "hasTitle": "false"
+    },
+    "ghb_financing/detail/index": {
+      "hasTitle": "false"
+    },
+    "/ghb_grid/all_grid/care_grid": {
+      "hasTitle": "false"
+    }
+  }
+}

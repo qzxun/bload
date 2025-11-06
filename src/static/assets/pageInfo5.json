@@ -1,0 +1,23 @@
+{
+  "pageInfo": {
+    "ghb_account_new/index": {
+      "transparentTitle": "always"
+    },
+    "ghb_deposit_transfer/index.html#/ghb_deposit_transfer/purchasing_area/index": {
+      "transparentTitle": "always"
+    },
+    "ghb_deposit_transfer/index.html#src/ghb_deposit_transfer/directionalTransfer/index": {
+      "transparentTitle": "always"
+    },
+    "ghb_financing_new/index.html#/ghb_financing_new/details/RateChartsDetails": {
+      "transparentTitle": "always"
+    },
+    "ghb_deposit_transfer/index.html#/ghb_deposit_transfer/my_pending_order/index": {
+      "transparentTitle": "always"
+    },
+    "ghb_grid/all_grid/search": {
+      "transparentTitle": "always",
+      "hasTitle": "false"
+    }
+  }
+}

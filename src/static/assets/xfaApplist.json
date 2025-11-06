@@ -1,0 +1,13 @@
+{
+	"appList": {
+		"ghb_xfa_index": "20232040",
+		"ghb_xfa_application_process": "20232041",
+		"ghb_xfa_change_rp_acct": "20232042",
+		"ghb_xfa_loan_credit": "20232043",
+		"ghb_xfa_loan_order": "20232044",
+		"ghb_xfa_my_contract": "20232045",
+		"ghb_xfa_prepayment": "20232046",
+		"ghb_xfa_product": "20232047",
+		"ghb_xfa_settlement_certificate": "20232048"
+	}
+}

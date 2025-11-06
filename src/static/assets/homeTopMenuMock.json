@@ -1,0 +1,36 @@
+{
+  "menuList": [
+    {
+      "menuNo": "",
+      "menuName": "管理驾驶舱",
+      "menuSkipType": "0",
+      "menuTigLogin": "1",
+      "menuPageLink": "/tbm_managementCockpit/index.html#/tbm_managementCockpit/index",
+      "menuImgUploadname": "R.mipmap.ic_enterprise_topmenu_jiashicang"
+    },
+    {
+      "menuNo": "",
+      "menuName": "智能转账",
+      "menuSkipType": "0",
+      "menuTigLogin": "1",
+      "menuPageLink": "/tbm_transfer/index.html#/tbm_transfer/home/index",
+      "menuImgUploadname": "R.mipmap.ic_enterprise_topmenu_zhinengzhuanzhang"
+    },
+    {
+      "menuNo": "",
+      "menuName": "复核授权",
+      "menuSkipType": "0",
+      "menuTigLogin": "1",
+      "menuPageLink": "/tbm_my_author/index.html#/tbm_my_author/audited/myAuthorList",
+      "menuImgUploadname": "R.mipmap.ic_enterprise_topmenu_fuheshouquan"
+    },
+    {
+      "menuNo": "",
+      "menuName": "银企对账",
+      "menuSkipType": "0",
+      "menuTigLogin": "1",
+      "menuPageLink": "/tbm_BERecon/index.html#/tbm_BERecon/index",
+      "menuImgUploadname": "R.mipmap.ic_enterprise_topmenu_yinqiduizhang"
+    }
+  ]
+}

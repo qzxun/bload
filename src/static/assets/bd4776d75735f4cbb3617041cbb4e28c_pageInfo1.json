@@ -1,0 +1,169 @@
+{
+  "pageInfo": {
+    "ghb_balance/smart_deposit/index": {
+      "transparentTitle": "always"
+    },
+    "ghb_financing/financing/index": {
+      "transparentTitle": "always"
+    },
+    "ghb_financing/detail/index": {
+      "transparentTitle": "always"
+    },
+    "ghb_member/member/introduce": {
+      "transparentTitle": "always"
+    },
+    "ghb_financing/position_detail/index": {
+      "transparentTitle": "always"
+    },
+    "ghb_financing/position_detail/profit_detail": {
+      "transparentTitle": "always"
+    },
+    "ghb_account/my_account/index": {
+      "transparentTitle": "always"
+    },
+    "ghb_fund/fund_product/fund_details": {
+      "transparentTitle": "always"
+    },
+    "ghb_member/member/index": {
+      "transparentTitle": "always"
+    },
+    "ghb_salary_finance/finance/index": {
+      "transparentTitle": "always"
+    },
+    "ghb_salary_finance/finance/casual": {
+      "transparentTitle": "always"
+    },
+    "ghb_advertising/information/index": {
+      "transparentTitle": "always"
+    },
+    "ghb_discount/discount/index": {
+      "transparentTitle": "always"
+    },
+    "ghb_or_code/payment/payment": {
+      "transparentTitle": "always"
+    },
+    "ghb_integral_bill/integral/my_integral": {
+      "transparentTitle": "always"
+    },
+    "ghb_grid/all_grid/index": {
+      "hasTitle": "false"
+    },
+    "ghb_fund/fund/index": {
+      "transparentTitle": "always"
+    },
+    "ghb_grid/history_explorer/index": {
+      "transparentTitle": "always"
+    },
+    "ghb_annual_bill/annual_bill/index": {
+      "hasTitle": "false"
+    },
+    "ghb_trustBuy/mainProcess/fundDetail": {
+      "transparentTitle": "always"
+    },
+    "ghb_insurance/index/index": {
+      "transparentTitle": "always"
+    },
+    "ghb_trust_fund/trust_fund/index": {
+      "transparentTitle": "always"
+    },
+    "ghb_member/member/membershipleveldesc": {
+      "transparentTitle": "always"
+    },
+    "ghb_excellent_loans/index/index": {
+      "transparentTitle": "always"
+    },
+    "ghb_transfer_market/large_depoit_transfer/detail": {
+      "transparentTitle": "always"
+    },
+    "ghb_transfer_market/market/index": {
+      "transparentTitle": "always"
+    },
+    "ghb_insurance/index/product_detail": {
+      "transparentTitle": "always"
+    },
+    "ghb_grid/transaction/print_transaction_flow": {
+      "hasTitle": "false"
+    },
+    "ghb_loan/loan_record/loan_list": {
+      "hasTitle": "false"
+    },
+    "ghb_loan/repayment_list/index": {
+      "hasTitle": "false"
+    },
+    "ghb_loan/loan_product/index": {
+      "hasTitle": "false"
+    },
+    "ghb_loan/loan_product/detail": {
+      "hasTitle": "false"
+    },
+    "ghb_account_assets/asset_analysis/index": {
+      "hasTitle": "false"
+    },
+    "ghb_account_assets/liabilities_analysis/index": {
+      "hasTitle": "false"
+    },
+    "ghb_assessment_questionnaire/assessment_questionnaire/complete_fund_questionnaire": {
+      "hasTitle": "false"
+    },
+    "ghb_assessment_questionnaire/assessment_questionnaire/complete_insurance_questionnaire": {
+      "hasTitle": "false"
+    },
+    "ghb_assessment_questionnaire/assessment_questionnaire/complete_risk_questionnaire": {
+      "hasTitle": "false"
+    },
+    "ghb_assessment_questionnaire/assessment_questionnaire/complete_trust_questionnaire": {
+      "hasTitle": "false"
+    },
+    "ghb_assessment_questionnaire/assessment_questionnaire/financing_result": {
+      "hasTitle": "false"
+    },
+    "ghb_assessment_questionnaire/assessment_questionnaire/fund_assessment_questionnaire": {
+      "hasTitle": "false"
+    },
+    "ghb_assessment_questionnaire/assessment_questionnaire/fund_result": {
+      "hasTitle": "false"
+    },
+    "ghb_assessment_questionnaire/assessment_questionnaire/insurance_assessment_questionnaire": {
+      "hasTitle": "false"
+    },
+    "ghb_assessment_questionnaire/assessment_questionnaire/insurance_result": {
+      "hasTitle": "false"
+    },
+    "ghb_assessment_questionnaire/assessment_questionnaire/risk_assessment_questionnaire": {
+      "hasTitle": "false"
+    },
+    "ghb_assessment_questionnaire/assessment_questionnaire/trust_assessment_questionnaire": {
+      "hasTitle": "false"
+    },
+    "ghb_assessment_questionnaire/assessment_questionnaire/trust_result": {
+      "hasTitle": "false"
+    },
+    "ghb_balance/large_deposit/share_poster": {
+      "hasTitle": "false"
+    },
+    "ghb_balance/flexible/flexible_introduct": {
+      "transparentTitle": "always"
+    },
+    "ghb_my_fund/my_fund/hold_fund_details": {
+      "hasTitle": "false"
+    },
+    "ghb_financing/share_poster/index": {
+      "hasTitle": "false"
+    },
+    "ghb_financing/share_poster/qrCode": {
+      "hasTitle": "false"
+    },
+    "ghb_fund/fund_product/new_fund_details": {
+      "transparentTitle": "always"
+    },
+    "ghb_fund/fund_product/fund_search": {
+      "hasTitle": "false"
+    },
+    "ghb_grid/all_grid/new_grid": {
+      "hasTitle": "false"
+    },
+    "ghb_account_assets/asset_overview/index": {
+      "transparentTitle": "always"
+    }
+  }
+}

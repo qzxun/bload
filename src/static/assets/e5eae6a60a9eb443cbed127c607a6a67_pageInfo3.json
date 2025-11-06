@@ -1,0 +1,133 @@
+{
+  "pageInfo": {
+    "ghb_tranPage/goldNewYear/index": {
+      "transparentTitle": "always"
+    },
+    "ghb_account_assets/asset_overview/index": {
+      "transparentTitle": "always"
+    },
+    "ghb_grid/all_grid/care_grid": {
+      "hasTitle": "false"
+    },
+    "ghb_settings/settings/security_check": {
+      "transparentTitle": "always"
+    },
+    "ghb_member/member/total_interest": {
+      "transparentTitle": "always"
+    },
+    "ghb_message/message/financial_calendar": {
+      "hasTitle": "false"
+    },
+    "ghb_message/message/push_message": {
+      "hasTitle": "false"
+    },
+    "ghb_message/message/service": {
+      "hasTitle": "false"
+    },
+    "ghb_message/message/shop": {
+      "hasTitle": "false"
+    },
+    "ghb_myfinancial_calendar/calendar/index": {
+      "hasTitle": "false"
+    },
+    "ghb_myfinancial_calendar/calendar/message_list": {
+      "hasTitle": "false"
+    },
+    "ghb_myfinancial_calendar/calendar/add_reminder_event": {
+      "hasTitle": "false"
+    },
+    "ghb_balance/large_deposit/purchase": {
+      "hasTitle": "false"
+    },
+    "ghb_openDoorRed/index/purchase": {
+      "hasTitle": "false"
+    },
+    "ghb_wechat/index": {
+      "hasTitle": "false",
+      "transparentTitle": "always"
+    },
+    "ghb_combination_product/combination/combination_details": {
+      "transparentTitle": "always"
+    },
+    "ghb_anxingcun/anxing_sign/introduce": {
+      "transparentTitle": "always"
+    },
+    "ghb_monthly_billing/billing/index": {
+      "transparentTitle": "always"
+    },
+    "ghb_trust_fund/trust_fund/supplementary_agreement": {
+      "transparentTitle": "always"
+    },
+    "ghb_trustBuy/mainProcess/agreementSign": {
+      "transparentTitle": "always"
+    },
+    "ghb_property_evaluation/property/index": {
+      "hasTitle": "false",
+      "transparentTitle": "always"
+    },
+    "ghb_combination/purchase/intelligent": {
+      "transparentTitle": "always"
+    },
+    "ghb_combination/holding/residue": {
+      "transparentTitle": "always"
+    },
+    "ghb_combination/combination/mixture_details": {
+      "hasTitle": "false",
+      "transparentTitle": "always"
+    },
+    "ghb_combination/holding/holding_details": {
+      "hasTitle": "false",
+      "transparentTitle": "always"
+    },
+    "ghb_combination/redeem/quick_roll_out": {
+      "transparentTitle": "always"
+    },
+    "ghb_combination/redeem/ordinary_roll_out": {
+      "transparentTitle": "always"
+    },
+    "ghb_combination/purchase/product_detail": {
+      "transparentTitle": "always"
+    },
+    "ghb_combination/combination/introduce": {
+      "transparentTitle": "always"
+    },
+    "ghb_combination/combination/illustrate": {
+      "transparentTitle": "always",
+      "hasTitle": "false"
+    },
+    "ghb_transaction_details/index#/ghb_transaction_details/search/index": {
+      "hasTitle": "false"
+    },
+    "ghb_account_book/index#/ghb_account_book/ledgerAdd": {
+      "transparentTitle": "always"
+    },
+    "ghb_account_book/index#/ghb_account_book/ledgerDetail": {
+      "hasTitle": "false"
+    },
+    "ghb_deposit/index.html#/ghb_deposit/index": {
+      "transparentTitle": "always"
+    },
+    "ghb_digital_human/digital_human/details": {
+      "transparentTitle": "always"
+    },
+    "ghb_digital_human/digital_human/index": {
+      "transparentTitle": "always"
+    },
+    "ghb_balance/flexible/flexible_product_list": {
+      "transparentTitle": "always"
+    },
+    "ghb_regular_saving/index.html#/ghb_regular_saving/index": {
+      "transparentTitle": "always"
+    },
+    "ghb_transfer_transaction/index#/ghb_transfer_transaction/index/index": {
+      "hasTitle": "false"
+    },
+    "ghb_curr_fixed_change/index.html#/ghb_curr_fixed_change/index": {
+      "transparentTitle": "always",
+      "hasTitle": "false"
+    },
+    "ghb_consumer_protection/brand_endorsement/index": {
+      "transparentTitle": "always"
+    }
+  }
+}

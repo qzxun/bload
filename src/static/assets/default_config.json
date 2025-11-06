@@ -1,0 +1,986 @@
+[
+      {
+        "value": "yes",
+        "key": "h5_nebulaUseNIO",
+        "serializedSize": 22,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\"shouldopen\":\"YES\",\"lbstimeout\":\"2\",\"sourceIdWhiteList\":[\"10000007\",\"20001003\"]}",
+        "key": "h5_preRPCRequest",
+        "serializedSize": 101,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "YES",
+        "key": "h5_ucPrehead",
+        "serializedSize": 19,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "[\"2018122162635316\",\"2018111362153294\",\"2018121062444831\",\"2018120762443621\",\"2018110661972928\",\"2018101961733269\",\"2018090361289233\",\"2018111362168096\",\"2018092561507369\",\"2018062060350751\",\"2019011763060066\",\"2018112662324585\"]",
+        "key": "ta_limitControlList",
+        "serializedSize": 253,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "[\"all\"]",
+        "key": "ta_cookie_part_wl",
+        "serializedSize": 111,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\"whitelist\":[\"2018090361289233\",\"2018081761068757\",\"2018121762565450\",\"2018051660134749\",\"77700189\",\"2018112862331945\",\"2018121262515537\",\"2018091261350219\",\"2018112962211021\",\"2018121962591435\",\"2018112962207037\",\"2018112762323880\",\"2018032302435038\",\"2018050402633231\",\"2018040402504128\",\"2018072360759137\",\"2018121062444831\",\"2018110661972928\",\"2018121462554651\",\"2018121062454857\",\"2018101961733269\",\"2018090361258298\",\"77700157\",\"2018112162294060\",\"2018091861448184\",\"2018091061281897\",\"2018062060350751\",\"2018122162635316\",\"2018110161940779\",\"2018041602570739\",\"2018070460552281\",\"2018081661045639\",\"2018042702597626\",\"2018081561041476\",\"2018083061176774\",\"2018081661032603\",\"2018103161898552\",\"2018121562519951\",\"2018090361288261\",\"2018061460360344\",\"77700104\",\"2018062160411713\",\"2018112662335533\",\"2018082161130063\",\"2018091161341160\",\"2018080960950590\",\"2018020802165372\",\"2018081661065647\",\"2018101661643776\",\"2018040902522799\",\"2018010201515642\",\"2018111362153294\",\"2017042106859936\",\"2017112700193819\",\"2018012602079826\",\"2018072360829138\",\"2018081661038613\",\"2018032202428491\",\"2018080160823989\",\"2018081561063458\",\"2018120562493437\",\"2018031302361965\",\"2018111962268474\",\"2018101661644806\",\"2017021005604158\",\"2018010301552683\",\"2018120262409664\",\"2018091061353039\",\"2017122501198528\",\"2018120662481627\",\"2018011601916155\",\"2017120500389272\",\"2018010301534922\",\"2018052160214029\",\"2018092761496694\",\"2018083161117953\",\"2018102161803116\",\"77700180\",\"2018101961718364\",\"2018092561546278\",\"2017081708237081\",\"2017072107835038\",\"2018122062695048\",\"2018121862618142\",\"2018122862700017\",\"2018081461095002\",\"2018112962207035\",\"2019021863227888\",\"2018082361178165\",\"2019012563168070\"]}",
+        "key": "ta_navi_is_show_favorite",
+        "serializedSize": 1722,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "[\"2018030502317859\",\"2018092761554609\",\"2018092861506810\",\"2018092761542675\",\"2018092861537762\",\"2018092761496694\",\"77700151\",\"2018081761068757\",\"2017061407490325\",\"2018091261350219\",\"2018090361289233\",\"77700189\",\"2018121262504555\",\"2018092561507369\",\"2018112962211021\",\"2018120662445690\",\"2018090761255717\",\"2018050402633231\",\"2018040402504128\",\"2018070960585195\",\"2018081461095002\",\"2018112762323880\",\"2018013002113328\",\"2018122462698663\",\"2016122804685366\",\"2018121262515537\",\"77700222\",\"2018070460542354\",\"77700152\",\"77700126\",\"77700183\",\"77700159\",\"2018112862331945\",\"2018121962591435\",\"2018112962207037\",\"2018091361395351\",\"2018032302435038\",\"2018041702575720\",\"2017050407110255\",\"2018080660950246\",\"2018092861511714\"]",
+        "key": "h5_use_spdy_initTinyProcess",
+        "serializedSize": 756,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\"inner\":\"YES\"}",
+        "key": "h5_tinyNotUseSpdyCfg",
+        "serializedSize": 39,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "77700126,2018090561232478",
+        "key": "ta_v8AppWhiteList",
+        "serializedSize": 46,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "all",
+        "key": "h5_addShortcutShowDetailDialogBlackList",
+        "serializedSize": 46,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\n  \"enable\": true,\n  \"every\": {\"saveFile\": {\"in\": true,\"maxLength\": 256,\"out\": false},\"removeSavedFile\": {\"in\": true,\"maxLength\": 256,\"out\": false},\"copyFile\": {\"in\": true,\"maxLength\": 256,\"out\": false},\"readFile\": {\"in\": true,\"maxLength\": 256,\"out\": false},\"rename\": {\"in\": true,\"maxLength\": 256,\"out\": false},\"rmdir\": {\"in\": true,\"maxLength\": 256,\"out\": false},\"unlink\": {\"in\": true,\"maxLength\": 256,\"out\": false},\"writeFile\": {\"in\": true,\"maxLength\": 256,\"out\": false},\"removeAPDataStorage\": {\"in\": true,\"maxLength\": 256,\"out\": false},\"httpRequest\": {\"in\": true,\"maxLength\": 256,\"out\": false},\"uploadFile\": {\"in\": true,\"maxLength\": 256,\"out\": false},\"tinyRpc\": {\"in\": true,\"maxLength\": 256,\"out\": false},\"uploadImage\": {\"in\": true,\"maxLength\": 256,\"out\": false},\"saveImage\": {\"in\": true,\"maxLength\": 256,\"out\": false},\"h5PageDownload\": {\"in\": true,\"maxLength\": 256,\"out\": false},\"forceLoadUrl\": {\"in\": true,\"maxLength\": 256,\"out\": false},\"pushWindow\": {\"in\": true,\"maxLength\": 256,\"out\": false},\"openRpc\": {\"in\": true,\"maxLength\": 256,\"out\": false},\"appxrpc\": {\"in\": true,\"maxLength\": 256,\"out\": false},\"rpc\": {\"in\": true,\"maxLength\": 256,\"out\": false},\"setClipboard\": {\"in\": true,\"maxLength\": 256,\"out\": false},\"emotion.downloadEmotion\": {\"in\": true,\"maxLength\": 256,\"out\": false}\n  }\n}",
+        "key": "h5_secJsApiCallConfig",
+        "serializedSize": 1317,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\"canRpc\":true,\"canIntercept\":true,\"canOmitScanApp\":true,\"syncrpctimeout\":1000,\"exception\":[\"addFollow\",\"billApp.chooseBill\",\"downloadImage\",\"downloadMFile\",\"getAppToken\",\"getAuthUserInfo\",\"getClipboard\",\"getPPFollowStatus\",\"getRecommendList\",\"getSharedData\",\"getUserInfo\",\"initWebAR\",\"mtop\",\"refreshSyncSkey\",\"registerSync\",\"removeFollow\",\"responseSyncNotify\",\"saveImage\",\"setClipboard\",\"setSharedData\",\"shareToChannel\",\"startSpeech\",\"unregisterSync\",\"uploadFile\",\"rpc\"],\"forbidNotRecord\":false}",
+        "key": "h5_newJsapiPermissionConfig",
+        "serializedSize": 528,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "[\"2018121862587354\",\"2018081761068757\",\"2018030502317859\",\"2017050407110255\",\"77700126\",\"2018092561507369\",\"2018080260797946\",\"77700161\", \"2018103161898599\",\"2019021863227888\"]",
+        "key": "ta_useCustomShareContent",
+        "serializedSize": 205,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\"enable\": true,\"timeout\": 10}",
+        "key": "h5_newGetAuthCodeConfig",
+        "serializedSize": 57,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "[\"2017061407490325\",\"2017092508915590\",\"2017093009005940\",\"2017102709549573\",\"2017110909823156\",\"2017112000050756\",\"2017060707440590\",\"2017111709989574\",\"2018070960577433\",\"77700151\",\"2018081761068757\",\"2018090361289233\",\"2018080760954306\",\"77700189\",\"2018121062443900\",\"2018052860324128\",\"2018121262504555\",\"2018092561507369\",\"2018112962211021\",\"2018120662445690\",\"2018090761255717\",\"2018050402633231\",\"2018040402504128\",\"2018070960585195\",\"2018081461095002\",\"2018112762323880\",\"2018013002113328\",\"2018122462698663\",\"2016122804685366\",\"2018121262515537\",\"77700222\",\"2018070460542354\",\"77700152\",\"77700126\",\"77700183\",\"77700159\",\"2018112862331945\",\"2018121962591435\",\"2018112962207037\",\"2018091361395351\",\"2018032302435038\",\"2018091261350219\",\"2018041702575720\",\"2017050407110255\",\"2018080660950246\",\"2019011763039528\",\"2018012402052941\",\"2018030502317859\",\"2018112862351371\",\"2018090761228828\",\"2018092861511714\",\"2018122162635316\",\"2018121762573235\"]",
+        "key": "h5HttpRequestUseSpdyOnAppId",
+        "serializedSize": 984,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "1",
+        "key": "ta_map_preload_mode",
+        "serializedSize": 24,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "no",
+        "key": "h5_uc_parallel_init",
+        "serializedSize": 25,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\"back\":[\"77700189\",\"77700199\",\"77700162\"]}",
+        "key": "h5_eventThroughWorker",
+        "serializedSize": 68,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\"shouldUsePreRender\":\"YES\",\"prerenderPage\":\"\",\"iOSUsePreRender4TabBar\":\"NO\",\"appBlackList4Android\":[\"2017041206668232\",\"2017080208004152\",\"2017083108480955\",\"66666819\",\"66666897\",\"66666779\",\"2017112000050756\",\"2018072560844004\",\"2018070960585195\",\"77700150\"]}",
+        "key": "h5_preRenderConfig",
+        "serializedSize": 283,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "[\"77700126\",\"77700174\",\"77700144\",\"66666897\",\"2018082361178165\",\"66666819\",\"2018072560844004\",\"2018092061473655\",\"77700183\",\"77700142\",\"2018062260367935\",\"2018071360619132\",\"2018062360356982\",\"77700176\",\"2017112000050756\",\"77700014\",\"2018092761529663\",\"77700152\",\"77700122\",\"77700151\",\"2018122562686742\",\"2018121862587354\",\"77700209\",\"77700148\",\"2018091361395351\",\"2017050407110255\",\"2018080260797946\",\"77700150\",\"2017110309702744\",\"77700243\",\"2018070960585195\",\"2018050402633231\",\"2018102561805534\",\"2018030502317859\",\"77700175\",\"2017050407110255\",\"2019012663154278\",\"77700207\"]",
+        "key": "ta_favoriteMenuBlackList",
+        "serializedSize": 608,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "[\"2017072607907880\", \"2017042106859936\", \"2017110309709246\", \"2018030502317859\"]",
+        "key": "ta_snapshotWhiteList",
+        "serializedSize": 104,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "true",
+        "key": "h5_startAppCensorEnable",
+        "serializedSize": 31,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\"initWebAR\":{\"level\":\"level_medium\",\"whitelist\":[\"^https?://(maomaoar[.]ews[.]m[.]jaeapp.com)$\"]},\"getUserInfo\":{\"level\":\"level_high\",\"whitelist\":[\"^https://(.*[.]mybank[.]cn)$\"]},\"addToHomeWithComponent\":{\"level\":\"level_abovemedium\"},\"APSocialNebulaPlugin.queryRecentStatusExternal\":{\"level\":\"level_medium\",\"whitelist\":[\"^http(s)?://.*[.]diditaxi[.]com[.]cn$\"]},\"startSpeech\":{\"level\":\"level_medium\",\"whitelist\":[\"^https://(jskp|jskpdev2)[.]jss[.]com[.]cn$\"]},\"addNotifyListener\":{\"level\":\"level_low\",\"whitelist\":[\"^https://m[.]51yzone[.]com$\"]},\"setClipboard\":{\"level\":\"level_low\",\"whitelist\":[\"^https://.*[.]((jimingkeji[.]com[.]cn)|(mashangfangxin[.]com))$\"]},\"getClipboard\":{\"level\":\"level_low\",\"whitelist\":[\"^https://.*[.]jimingkeji[.]com[.]cn$\"]},\"getAuthUserInfo\":{\"level\":\"level_low\",\"whitelist\":[\"^http(s)?://.*[.]diditaxi[.]com[.]cn$\",\"^http(s)?://.*[.]didichuxing[.]com$\"]},\"downloadImage\":{\"level\":\"level_medium\",\"whitelist\":[\"^http(s)?://res[.]mayi[.]aiyounet[.]cn$\"]},\"uploadFile\":{\"level\":\"level_low\",\"whitelist\":[\"^http(s)?://(2017ar[.]mizone[.]cc)|(kmjj[.]alipay[.]kmhatec[.]cn)|(openhome[.]boingpay[.]com)$\", \"^https://(((betaalipay|alipay|zhifubao)[.]happycfc[.]com)|(alipay[.]poseidong[.]com)|(jgzf[.]police[.]sh[.]cn)|((www|cola)[.]qdmedia[.]cc)|(www[.]gxar[.]com))$\"]},\"saveImage\":{\"level\":\"level_low\",\"whitelist\":[\"^https://((a[.]idsuipai)|(www[.]nanguache)|(static[.]greenmangodata)|((.+[.])?bangdao-tech))[.]com$\"]},\"registerSync\":{\"level\":\"level_abovemedium\"},\"unregisterSync\":{\"level\":\"level_abovemedium\"},\"responseSyncNotify\":{\"level\":\"level_abovemedium\"},\"refreshSyncSkey\":{\"level\":\"level_abovemedium\"},\"getAppToken\":{\"level\":\"level_low\",\"whitelist\":[\"^https://act[.]aligames[.]com$\"]},\"setSharedData\":{\"level\":\"level_low\"},\"getSharedData\":{\"level\":\"level_low\"},\"downloadApp\":{\"level\":\"level_medium\"},\"downloadFile\":{\"level\":\"level_high\"},\"h5PageDownload\":{\"level\":\"level_high\"},\"downloadMFile\":{\"level\":\"level_abovemedium\",\"whitelist\":[\"^https://((www|cola)[.]qdmedia[.]cc)|(www[.]gxar[.]com)$\"]},\"snapshot\":{\"level\":\"level_medium\"},\"upload\":{\"level\":\"level_high\"},\"addFollow\":{\"level\":\"level_high\",\"whitelist\":[\"^https://((sky[.]vip[.]youku[.]com)|(.*[.]taopiaopiao[.]com)|(.*[.]ele[.]me)|((m|air|(cui[.]m))[.]1688[.]com)|(((medicalinsprod)|(mycar-vbizplatform)|(k12jiaofei))[.]alipay-eco[.]com))$\"]},\"removeFollow\":{\"level\":\"level_high\",\"whitelist\":[\"^https://(sky[.]vip[.]youku[.]com|(.*[.]ele[.]me)|(medicalinsprod[.]alipay-eco[.]com))$\"]},\"getRecommendList\":{\"level\":\"level_medium\",\"whitelist\":[\"^https://(sky[.]vip[.]youku[.]com|(.*[.]ele[.]me)|(medicalinsprod[.]alipay-eco[.]com))$\"]},\"getPPFollowStatus\":{\"level\":\"level_high\",\"whitelist\":[\"^https://((sky[.]vip[.]youku[.]com)|(.*[.]taopiaopiao[.]com)|(.*[.]ele[.]me)|((m|air|(cui[.]m))[.]1688[.]com)|(((medicalinsprod)|(mycar-vbizplatform))[.]alipay-eco[.]com))$\"]},\"fpRecommend\":{\"level\":\"level_high\"},\"getFpSecData\":{\"level\":\"level_high\"},\"bindTB\":{\"level\":\"level_medium\"},\"spsafepay.getdevinfo\":{\"level\":\"level_high\"},\"billApp.chooseBill\":{\"level\":\"level_high\",\"whitelist\":[\"^https://.*[.]jss[.]com[.]cn$\",\"^https://.*[.](fapiao|(51)?baiwang)[.]com$\"]},\"startBizService\":{\"level\":\"level_none\"},\"downloadModelFile\":{\"level\":\"level_low\"},\"openInBrowser\":{\"level\":\"level_low\"},\"setStartParam\":{\"level\":\"level_abovemedium\"},\"h5PageLoadData\":{\"level\":\"level_high\"},\"setTabBar\":{\"level\":\"level_medium\"},\"CaptureForIndustry\":{\"level\":\"level_low\"},\"mtop\":{\"level\":\"level_medium\",\"whitelist\":[\"^https://((x|p|m)[.]damai[.]cn)$\"]},\"shareToChannel\":{\"level\":\"level_low\",\"whitelist\":[\"^https://.*[.]mucfc[.]com$\",\"^https://.*[.]poseidong[.]com$\"]},\"getSchemeAuthInfo\":{\"level\":\"level_none\"},\"dispatchJsFile\":{\"level\":\"level_high\"},\"registerWorker\":{\"level\":\"level_high\"}}",
+        "key": "h5_jsapiPermission",
+        "serializedSize": 3775,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\"h5_enableExternalWebView\":\"YES\",\"h5_externalWebViewUsageRule\":{\"2014060400006303\":\"SYSTEM_BUILD_IN\",\"2014010200002514\":\"SYSTEM_BUILD_IN\",\"2014070700006871\":\"SYSTEM_BUILD_IN\",\"2014042900005397\":\"SYSTEM_BUILD_IN\",\"bizType_disableUC\":\"SYSTEM_BUILD_IN\",\"bizType_laifeng\":\"SYSTEM_BUILD_IN\"},\"h5_externalWebViewSdkVersion\":{\"min\":11,\"max\":99},\"h5_externalWebView4UC\":[{\"appid\":\"66666784\"},{\"entryUrl\":\"https://openauth.alipay.com/oauth2/publicAppAuthorize.htm?app_id=2016042601338846&scope=auth_userinfo&redirect_uri=http%3a%2f%2fjsfwpt.lsyypt.com%2fhkOrder%2fjshksqfwc&state=fwcljhk\"},{\"entryUrl\":\"https://openauth.alipay.com/oauth2/publicAppAuthorize.htm?app_id=2016042601338846&scope=auth_userinfo&redirect_uri=http%3a%2f%2fjsfwpt.lsyypt.com%2fhkOrder%2fjshkjlfwc&state=fwchkjl\"},{\"entryUrl\":\"https://openauth.alipay.com/oauth2/publicAppAuthorize.htm?app_id=2016042601338846&scope=auth_userinfo&redirect_uri=http%3A%2F%2Fjsfwpt.lsyypt.com%2FhkOrder%2Fjshksqcfw&state=csfw\"},{\"entryUrl\":\"https://openauth.alipay.com/oauth2/publicAppAuthorize.htm?app_id=2014042900005397&auth_skip=true&scope=auth_base&redirect_uri=https%3A%2F%2Foauth.cc.cmbchina.com%2FOauthPortal%2Falipay%2Fcallback%3Foauth_id%3D20405188%26callback_uri%3Dhttps%3A%2F%2Fxyk.cmbchina.com%2FmyAccount%2Fonekeyquery%2Findex\"}]}",
+        "key": "h5_webViewConfig",
+        "serializedSize": 1310,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "1",
+        "key": "ta_checkLifestyleRelation",
+        "serializedSize": 30,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "1",
+        "key": "ta_longClickShowPanel",
+        "serializedSize": 26,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "1",
+        "key": "ta_permissionDialogSwitch",
+        "serializedSize": 30,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "1",
+        "key": "ta_spmTAFSwitch",
+        "serializedSize": 20,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\n\t\"enableConsole\": true,\n         \"appIds\":\"77700150,66666897,2018011601915500\"\n}",
+        "key": "tiny_apiMessageChannel",
+        "serializedSize": 108,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "true",
+        "key": "tiny_nativeCanvasCompactProtocol",
+        "serializedSize": 40,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "[\"getExtConfig\", \"healthKitRequest\", \"resizeNativeKeyBoardInput\", \"showBackHome\", \"rpc\", \"getClientConfig\", \"cdpFeedback\", \"getCdpSpaceInfo\", \"shouldShowAddComponent\", \"questionaireApp2HomeShow\", \"addNotifyListener\", \"closeAddComponentAction\", \"addToHomeWithComponent\", \"getSharedData\", \"setSharedData\", \"getUserInfo\", \"makePhoneCall\",\"disablePageMonitor\",\"handleLoggingAction\"]",
+        "key": "ta_internalAPIList",
+        "serializedSize": 401,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\n\t\"enable\": \"1\",\n\t\"all\": \"1\"\n}",
+        "key": "ta_edge_cfg",
+        "serializedSize": 46,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\"mode\":0}",
+        "key": "h5_ucCoreMultiProcess",
+        "serializedSize": 57,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\"ans\":\"1\",\"sil\":[\"getExtConfig\",\"healthKitRequest\",\"resizeNativeKeyBoardInput\",\"showBackHome\",\"rpc\",\"getClientConfig\",\"cdpFeedback\",\"getCdpSpaceInfo\",\"shouldShowAddComponent\",\"questionaireApp2HomeShow\",\"addNotifyListener\",\"closeAddComponentAction\",\"addToHomeWithComponent\",\"getSharedData\",\"setSharedData\",\"getUserInfo\",\"makePhoneCall\"], \"ntmpw\":\"2018010501602385,2018060760326830\",\"saa\":\"1\",\"wjw\":[\"2017070707674703\",\"2017120400360298\",\"2018013002113328\",\"2018030502317859\",\"2018032302435038\",\"2018040802518109\",\"2018032802462487\",\"2018032002411019\",\"2018052360225132\",\"2018040402504128\",\"2018062060350751\",\"2018031202357001\",\"2018031302367666\",\"2018050402633231\",\"2018070460542354\",\"2018062860423410\",\"2018071260580683\",\"2018071160524903\",\"2018080860945432\",\"2018072460844002\",\"2016122804685366\",\"2018081060972748\",\"2018060760267955\",\"2018081761012762\",\"2018081661045639\",\"2018080260781933\",\"2018042102588003\",\"2018062260367935\",\"2018080860934411\",\"2018082161130063\",\"2018072660819449\",\"2018090761287683\",\"2018091861411434\",\"2018071360619132\",\"2018082361146371\",\"2018092761554609\",\"2018092861506810\",\"2018092761542675\",\"2018092861537762\",\"2018092761496694\",\"2018092761550534\",\"2018081761068757\",\"2018101061632749\",\"2018091261350219\",\"2018110662028404\",\"2018110862072864\",\"2018111962268474\",\"2018112162281154\",\"2018090361258298\"],\"swal\":[\"initWebAR\",\"uploadImage\"],\"slsp\":\"1\",\"awl\":[\"2018092061473655\"],\"fmb\": [\"77700126\", \"77700174\",\"77700144\",\"66666897\",\"2018082361178165\",\"66666819\",\"2018072560844004\",\"2018092061473655\",\"77700183\",\"77700142\",\"2018062260367935\",\"2018071360619132\",\"2018062360356982\",\"77700176\",\"2017112000050756\",\"77700014\",\"2018092761529663\",\"77700152\",\"77700122\",\"77700151\",\"2018122562686742\",\"2018121862587354\",\"77700209\",\"77700148\",\"2018091361395351\",\"2017050407110255\",\"2018080260797946\",\"77700150\",\"2017110309702744\",\"77700243\",\"2018070960585195\",\"2018050402633231\",\"2018102561805534\",\"2018030502317859\",\"77700175\",\"2017050407110255\",\"2019012663154278\",\"77700207\"]}",
+        "key": "ta_cfg",
+        "serializedSize": 2003,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "[\"all\"]",
+        "key": "h5_tiny_pulldown_text_blacklist",
+        "serializedSize": 42,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\"useSpdyInHttps\":\"F\",\"forcehosts\":[\"(.+[.])?ydbs2[.]zjds[.]gov[.]cn$\",\"(.+[.])?cityser[.]shulidata[.]com$\",\"(.+[.])?aqawo[.]cn$\",\"(.+[.])?122.224.125.243$\"],\"abroad\":\"F\",\"blackList\":[\"(.+[.])?((alipay(cs|-eco|objects)?|koubei|alitrip|alicdn|antfortune|antsdaq|cmbchina|zjlianhua|airbnb|linkedin|haodf|menusifu|nihaopay|czbank|cmpassport|elive99|zje|datarj|embryform|taopiaopiao)[.]com|(zhaocaibao|zmxy)[.]com[.]cn|(mybank|weibo)[.]cn)$\",\"(.+[.])?(alipay|wincustomer)[.]net$\",\"(.+[.])?(228|sina|10086|189|wo|aiyounet|nontax)[.]cn$\",\"(.+[.])?((tmall|taobao)[.](com|hk))$\",\"(.+[.])?((login[.]m[.]taobao)|chinamobile|benlai|dianping|witown|taobao|yongqianbao|96225|mucfc|qufenqi|hkbchina|cmschina|agoda|alibabacorp|alibaba-inc|alibaba)[.]com$\",\"(.+[.])?(spdbccc|citibank)[.]com[.]cn$\",\"^passport[.]jumei[.]com$\",\"(.+[.])?joy[.]ncl[.]com$\",\"(.+[.])?windowmalaysia[.]my$\",\"(.+[.])?id6[.]me$\",\"(.+[.])?weibo[.](com|cn)$\",\"(.+[.])?((mo[.]m)|click)[.]taobao[.]com$\",\"(.+[.])?(qq|xiaojukeji)[.]com$\",\"(.+[.])?(cgbchina|jss|carrefourvip|diditaxi|newone|sina|cmbc|cib)[.]com[.]cn$\",\"(.+[.])?yxcoach[.]com$\",\"(.+[.])?(ha-l-tax|pbc)[.]gov[.]cn$\",\"(.+[.])?(uber|zju4h)[.]com$\",\"(.+[.])?ebscn[.]com$\",\"(.+[.])?amap[.]com$\",\"(.+[.])?abchina[.]com$\",\"(.+[.])?bababus[.]com$\",\"(.+[.])?gentingcruises[.]com$\",\"(.+[.])?ssltest[.]ngarihealth[.]com$\",\"(.+[.])?weixin[.]ngarihealth[.]com$\",\"(.+[.])?ele[.]me$\",\"(.+[.])?alipay[.]jsfwpt[.]com$\",\"(.+[.])?51dh[.]com[.]cn$\",\"(.+[.])?51dh[.]vip$\",\"(.+[.])?sasa[.]com$\",\"(.+[.])?dangdang[.]com$\",\"(.+[.])?qr[.]esuntrade[.]com$\",\"(.+[.])?amt[.]global-taxrefund[.]com$\",\"(.+[.])?wap[.]lotsmall[.]cn$\",\"(.+[.])?qeebike[.]com$\",\"(.+[.])?icbc[.]com[.]cn$\",\"(.+[.])?smart[.]hnsmskj[.]cn$\",\"(.+[.])?waps[.]eparker[.]cn$\",\"(.+[.])?api[.]open[.]uc[.]cn$\",\"(.+[.])?folcnapplb[.]fortuna[.]costa[.]it$\",\"(.+[.])?selcnapplb[.]serena[.]costa[.]it$\",\"(.+[.])?atlcnapplb[.]atlantica[.]costa[.]it$\",\"(.+[.])?d[.]costa[.]it$\",\"(.+[.])?romantica[.]costa[.]it$\",\"(.+[.])?cvenezia[.]costa[.]it$\"],\"bsubreshost\":[\"g.alicdn.com\",\"g-search2.alicdn.com\",\"a.alipayobjects.com\"],\"subrestype\":[\"js\",\"html\",\"do\",\"json\"],\"useSpdy\":\"YES\",\"whiteList\":[\".*\"]}",
+        "key": "h5_androidSpdyV2",
+        "serializedSize": 2168,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "[\"appx\"]",
+        "key": "h5_ucServiceWorkerIgnoreCache",
+        "serializedSize": 41,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "[{\"time\":\"86400\",\"list\":[\"all\"]}]",
+        "key": "ta_is_update_menu_interval_list",
+        "serializedSize": 68,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "[\"initWebAR\", \"uploadImage\"]",
+        "key": "ta_webviewJsapiList",
+        "serializedSize": 51,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\"config\":{\"al\":\"3\",\"pr\":{\"4\":\"86400\",\"common\":\"864000\"},\"ur\":\"1800\",\"fpr\":{\"common\":\"3888000\"}},\"switch\":\"yes\"}",
+        "key": "h5_nbmngconfig",
+        "serializedSize": 130,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\"amr\":\"YES\",\"unzip\":\"YES\",\"unzipT\":\"3024000\",\"checkT\":\"3600\"}",
+        "key": "h5_enableClearAppPkg",
+        "serializedSize": 86,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\"enable\":\"NO\",\"cdnDomains\":[\"gw.alicdn.com\"],\"imageTypes\":[\"jpg\",\"png\",\"jpeg\"]}",
+        "key": "h5_cdnWebPConfig",
+        "serializedSize": 100,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\"2017072607907880\":{\"appId\":\"5629786\",\"appKey\":\"25031996\",\"licenseEnable\":true},\"2018042460048137\":{\"appId\":\"5629786\",\"appKey\":\"25031996\",\"licenseEnable\": true},\"20000067\":{\"appId\":\"5629786\",\"appKey\":\"25031996\",\"licenseEnable\": true},\"2018092061466644\":{\"appId\":\"8028616\",\"appKey\":\"25287412\",\"licenseEnable\": true},\"2018081761068757\":{\"appId\":\"5629786\",\"appKey\":\"25031996\",\"licenseEnable\": true},\"2017071307737205\":{\"appId\":\"5629786\",\"appKey\":\"25031996\",\"licenseEnable\": true},\"2019011562865019\":{\"appId\":\"6375290\",\"appKey\":\"25095243\",\"licenseEnable\":true}}",
+        "key": "ta_taobao_app_info",
+        "serializedSize": 581,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "[\"60000002\",\"60000155\",\"68687266\"]",
+        "key": "h5_httpRequest_useAlipayNetAppList",
+        "serializedSize": 72,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "0",
+        "key": "ta_navibar_poptip_max_count",
+        "serializedSize": 32,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "[\"2019011763060066\"]",
+        "key": "ta_webviewNBAppIdList",
+        "serializedSize": 45,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "[\"^[0-9]*$\"]",
+        "key": "h5_notTinyAppList",
+        "serializedSize": 33,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "600",
+        "key": "ta_queryAllFavoriteCacheTime",
+        "serializedSize": 35,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "[\"APSocialNebulaPlugin.queryRecentStatusExternal\",\"healthKitRequest\",\"postNotification\",\"addNotifyListener\",\"removeNotifyListener\"]",
+        "key": "h5_main_process_invoke_list",
+        "serializedSize": 163,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "[\"m.1688.com\", \"cui.m.1688.com\", \"miniappweb.shuqireader.com\"]",
+        "key": "ta_embedwebview_white_domain_list",
+        "serializedSize": 99,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\"disable\":\"NO\"}",
+        "key": "h5_preRequestMainFrame",
+        "serializedSize": 42,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\n\t\"enable\": true,\n\t\"rules\": []\n}",
+        "key": "h5_iFrameValidConfig",
+        "serializedSize": 57,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "yes",
+        "key": "h5_enable_H5App_patch",
+        "serializedSize": 28,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "0",
+        "key": "ta_mtop_check_error",
+        "serializedSize": 24,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "[\"(.*).taobao.com\",\"(.*).tmall.com\",\"(.*).alipay.com\",\"(.*).1688.com\",\"(.*).fliggy.com\",\"(.*).ele.me\",\"(.*).shuqireader.com\"]",
+        "key": "ta_embedwebview_white_domain_list_nb",
+        "serializedSize": 165,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "YES",
+        "key": "h5_ucQuickVerify",
+        "serializedSize": 23,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "NO",
+        "key": "h5_use_singleton_mockpage",
+        "serializedSize": 31,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "[\"all\"]",
+        "key": "ta_show_about_item_whitelist",
+        "serializedSize": 39,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "(function(){var e=\"HASLOGCOPYFROMNEBULA\";var i=\"\";var l=window.getSelection;var d=Selection.prototype.toString;var h=[].slice;var f=isNaN;var b=parseFloat;var g=isFinite;function k(m){if(window.AlipayJSBridge){m&&m()}else{document.addEventListener(\"AlipayJSBridgeReady\",m,false)}}function a(){var n=d.call(l());var m=i;return(m==n&&m.length&&!f(b(m))&&g(m)&&b(m)>0&&b(m)<=5000)}function j(m){return !m.length||m[0]!=\"copy\"||!a()}function c(){HTMLInputElement.prototype.setSelectionRange=function(m){return function(){var n=m.apply(this,[].slice.call(arguments));i=d.call(l());return n}}(HTMLInputElement.prototype.setSelectionRange);HTMLTextAreaElement.prototype.setSelectionRange=function(m){return function(){var n=m.apply(this,h.call(arguments));i=d.call(l());return n}}(HTMLTextAreaElement.prototype.setSelectionRange);HTMLDocument.prototype.execCommand=function(m){return function(){var q=h.call(arguments);var n=i;var o=m.apply(this,q);if(j(q)){return o}k(function(){AlipayJSBridge.call(\"remoteLog\",{bizType:\"H5SECURITY\",seedId:\"H5_SEC_COPYNUMBER\",param3:\"content=\"+n,})});return o}}(HTMLDocument.prototype.execCommand)}if(!window[e]){c();window[e]=true}})();",
+        "key": "h5_patchJsbridge",
+        "serializedSize": 1186,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\n\"whitelist\": [\"all\"],\n\"blacklist\": [\"66666674\", \"60000002\", \"68687075\", \"68687110\",\"68687266\"]\n}",
+        "key": "ta_navi_is_new_menu",
+        "serializedSize": 121,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "yes",
+        "key": "h5_plugin_throwException",
+        "serializedSize": 31,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "1",
+        "key": "ta_useTinySharePad",
+        "serializedSize": 23,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\"enable\":\"YES\",\"appId\":\"60000098|60000162|66666714|60000126|68687249\"}",
+        "key": "h5_isCollectDestroyJsApi",
+        "serializedSize": 99,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "[\n  \".*10661911.com.*\",\n  \"/www/index.html.*\",\n  \"jishi[.]rantu[.]com\",\n\".*render[.]laifeng[.]com.*\",\n\".*www.freshtxp.com.*\"\n]",
+        "key": "h5_enableFullscreenList",
+        "serializedSize": 153,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\"enable\": true, \"field\": \"extraConfig\"}",
+        "key": "h5_notifyWebViewConfigurationChanged",
+        "serializedSize": 80,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "1",
+        "key": "ta_use_new_debug_server",
+        "serializedSize": 28,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\"defaultRule\":{\"rate\":100,\"output\":\"mdap\"},\"singleRules\":[{\"sid\":\"H5_AL_NETWORK_START\",\"rules\":[{\"rate\":20,\"range\":{\"url\":\"https://a.alipayobjects.com/amui/native/9.0/amui.css|https://as.alipayobjects.com/g/component/antbridge/1.1.3/antbridge.min.js|https://static.alipay.com/alibridge/1.0.0/alibridge.min.js|https://as.alipayobjects.com/g/h5-lib/antui/9.9.0-2/rem/antui.css|https://as.alipayobjects.com/g/h5-lib/vue/1.0.26/vue.min.js|https://a.alipayobjects.com/g/antui/antui/10.0.0/rem/antui.css|https://a.alipayobjects.com/g/antui/antui-img/1.0.0/page-result/error.png|https://a.alipayobjects.com/g/antui/antui-img/1.0.0/page-result/system_busy.png|https://a.alipayobjects.com/g/antui/antui-img/1.0.0/page-result/blank_page.png|https://a.alipayobjects.com/g/antui/antui-img/1.0.0/page-result/404.png\"},\"output\":\"mdap\"},{\"output\":\"none\"}]},{\"sid\":\"H5_AL_SESSION_START\",\"rules\":[{\"output\":\"none\"}]},{\"sid\":\"H5_AL_PAGE_START\",\"rules\":[{\"output\":\"none\"}]},{\"sid\":\"H5_AL_PAGE_FINISH\",\"rules\":[{\"output\":\"none\"}]},{\"sid\":\"H5_AL_PAGE_APPEAR\",\"rules\":[{\"output\":\"none\"}]},{\"sid\":\"H5_AL_PAGE_RESUME\",\"rules\":[{\"output\":\"none\"}]},{\"sid\":\"H5_LINK_TIMING_STATISTIC\",\"rules\":[{\"output\":\"none\"}]},{\"sid\":\"H5_TRANS_PUSHWINDOW\",\"rules\":[{\"output\":\"none\"}]},{\"sid\":\"H5_AL_RESOURCE_FIRST_OFFLINE\",\"rules\":[{\"output\":\"none\"}]},{\"sid\":\"H5_APP_UNZIP\",\"rules\":[{\"output\":\"none\"}]},{\"sid\":\"H5_AL_SESSION_HTTPPROXY\",\"rules\":[{\"rate\":20,\"range\":{\"url\":\"https://a.alipayobjects.com/amui/native/9.0/amui.css|https://as.alipayobjects.com/g/component/antbridge/1.1.3/antbridge.min.js|https://static.alipay.com/alibridge/1.0.0/alibridge.min.js|https://as.alipayobjects.com/g/h5-lib/antui/9.9.0-2/rem/antui.css|https://as.alipayobjects.com/g/h5-lib/vue/1.0.26/vue.min.js|https://a.alipayobjects.com/g/antui/antui/10.0.0/rem/antui.css|https://a.alipayobjects.com/g/antui/antui-img/1.0.0/page-result/error.png|https://a.alipayobjects.com/g/antui/antui-img/1.0.0/page-result/system_busy.png|https://a.alipayobjects.com/g/antui/antui-img/1.0.0/page-result/blank_page.png|https://a.alipayobjects.com/g/antui/antui-img/1.0.0/page-result/404.png\"},\"output\":\"mdap\"},{\"output\":\"none\"}]}]}",
+        "key": "h5_logSwitch",
+        "serializedSize": 2169,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "all",
+        "key": "h5_enableFullink",
+        "serializedSize": 23,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\"enable\":\"YES\",\"innerSite\":\"1000\",\"outerSite\":\"50\",\"tinyAppEnable\":\"NO\",\"whiteList\":[\"^http(s)?://(.*[.]+)?(alipay|tmall|fliggy|alitrip)[.]com$\",\"^http(s)?://(.*[.]+)?(zmxy)[.]com[.]cn$\"]}",
+        "key": "h5_dataFlowConfig",
+        "serializedSize": 211,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "yes",
+        "key": "h5_useInternalAPStorage",
+        "serializedSize": 30,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\"enableTiny\":true}",
+        "key": "h5_enablePushWindowAnim",
+        "serializedSize": 46,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "YES",
+        "key": "h5_enableShowLoadingView",
+        "serializedSize": 31,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\"http(s?):\\\\/\\\\/mobilegw\\\\.shulidata\\\\.com\\\\/mgw\\\\.htm\": \"rpc-sdk-online\",\"http(s?):\\\\/\\\\/bkmobilegw(.*)\\\\/mgw\\\\.htm\": \"23387407\"}",
+        "key": "h5_rpcAppKeyConfig_android",
+        "serializedSize": 162,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "30",
+        "key": "h5_logGroup",
+        "serializedSize": 17,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "1",
+        "key": "remote_debug_mode",
+        "serializedSize": 22,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\"enable\":\"YES\",\"wifiLimit\":10,\"elseNetWork\":30,\"testFilter\":6,\"appId\":\"2020.+|2019.+|2018.+|2017.+|777.+|2016122304563454\",\"script\":\"try{(function(){if(location.href.indexOf('#')<=0){return{'isDSLError':false,'detail':''}}var isDSLError=false;if(document.getElementsByClassName('tiny-page').length==0||document.getElementsByClassName('tiny-page')[0].childNodes.length==0){isDSLError=true}if(!isDSLError){isDSLError=true;var childNodes=document.getElementsByClassName('tiny-page')[0].childNodes;for(var i=0;i<childNodes.length;i++){if(childNodes[i].childNodes.length>0){isDSLError=false;break}}}var testWebView=document.querySelectorAll('param[value=web-view]');if(testWebView&&testWebView.length>0){isDSLError=false}return isDSLError?{'isDSLError':true,'detail':''}:{'isDSLError':false,'detail':''}})()}catch(err){};\"}",
+        "key": "h5_logNewBlankScreenConfig",
+        "serializedSize": 850,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "^(.*\\.)?(servyou|amap|zhuayou|myzaker|ifeng|sm|youku|uc|25pp|tbcache|cifoo|aliapp|alicdn|aliyuncs|alipaydev|alipayobjects|sina|taobaocdn|poketec|aligames|xiami|(down[.]apps[.]sina)|antfortune|immomo|qiniucdn|ucdl\\.25pp|ucdl\\.down\\.uc|ucdl\\.ac\\.uc|alissl\\.ucdl\\.pp\\.uc)\\.(com|cn|(com.cn))$",
+        "key": "h5_ApkWhiteList",
+        "serializedSize": 308,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\"77700151\":\"10\"}",
+        "key": "h5_preparetimelimit",
+        "serializedSize": 40,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\"68687213\":\"77700151\"}",
+        "key": "ta_closeAppPair",
+        "serializedSize": 42,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "[\"all\"]",
+        "key": "ta_injectChInfo",
+        "serializedSize": 26,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "1",
+        "key": "ta_webview_fill_check",
+        "serializedSize": 26,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\"reqrate\":\"86400\",\"switch\":\"YES\"}",
+        "key": "h5_nbcredit",
+        "serializedSize": 49,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "NO",
+        "key": "h5_enablestablerpc",
+        "serializedSize": 24,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\n  exceptionCount: 2,\n  exceptionDuration: 10800,\n  exceptionEnable: 'NO'\n}",
+        "key": "tiny_appGuardConfig",
+        "serializedSize": 99,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\"canInterceptAuth\":\"YES\",\"interceptAuthBlackList\":[\"2014052000006024\"],\"interceptAuthWhiteList\":\".*\",\"shouldUseNewRPC\":\"YES\",\"authScopeList\":\"^(auth_userinfo|auth_base)$\"}",
+        "key": "h5_interceptAuthConfig",
+        "serializedSize": 199,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\"matchMainUrl\":\"YES\",\"parsePublicUrl\":\"YES\"}",
+        "key": "h5_resManifest",
+        "serializedSize": 63,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\"ch_appcenter\":\"1000\",\"ch_alipaysearch\":\"1005\",\"ch_backfromtinyapp\":\"1038\",\"ch_carservice\":\"1202\",\"ch_cityservice\":\"1200\",\"ch_college\":\"1204\",\"ch_desktop\":\"1023\",\"ch_insurance\":\"1207\",\"ch_life\":\"1020\",\"ch_medicalservice\":\"1203\",\"ch_membership\":\"1209\",\"ch_messageservice\":\"1014\",\"ch_othertinyapp\":\"1037\",\"ch_scan\":\"1011\",\"ch_school\":\"1205\",\"ch_share\":\"1007\",\"ch_sharebike\":\"1206\",\"ch_tinycenter\":\"1001\",\"ch_tinylongpress\":\"1090\",\"ch_ttyl\":\"1208\",\"ch_zhima\":\"1201\",\"ch_outerUrl\":\"13000\"}\n",
+        "key": "ta_scene_cfg",
+        "serializedSize": 504,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "all",
+        "key": "ta_fav_comp_whitelist",
+        "serializedSize": 28,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "[\"20000266\"]",
+        "key": "h5_handle4ua",
+        "serializedSize": 28,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\"enable\":\"no\"}",
+        "key": "h5_useAntUIDefaultKeyboard",
+        "serializedSize": 45,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "yes",
+        "key": "h5_useOldDefaultNumKeyboard",
+        "serializedSize": 34,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "YES",
+        "key": "h5_ucSetupVerifyAsyncWeekly",
+        "serializedSize": 34,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "NO",
+        "key": "h5_disableConfigServiceOpt",
+        "serializedSize": 32,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\"enableConfig\":\"YES\"}",
+        "key": "h5_478Config",
+        "serializedSize": 38,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "1",
+        "key": "ta_useTinyAppManagerProcess",
+        "serializedSize": 32,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "[\"getSystemInfo\",\"setAPDataStorage\",\"getAPDataStorage\",\"removeAPDataStorage\",\"clearAPDataStorage\",\"setTinyLocalStorage\",\"getTinyLocalStorage\",\"removeTinyLocalStorage\",\"clearTinyLocalStorage\",\"getTinyLocalStorageInfo\",\"getStartupParams\",\"internalAPI\",\"measureText\",\"getBackgroundAudioOption\",\"getForegroundAudioOption\"]",
+        "key": "H5_SWSYNCAPILIST",
+        "serializedSize": 339,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "1",
+        "key": "use_native_share_cfg",
+        "serializedSize": 25,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\"jsapiDiscaimer\":\"YES\",\"keyboardHint\":\"YES\",\"wapDialog\":\"YES\"}",
+        "key": "h5_payPrompt",
+        "serializedSize": 79,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "YES",
+        "key": "h5_enableNewErrorPage",
+        "serializedSize": 28,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\"blackList\":[\"tarollcake.com\",\"miniwatermelon.cn\"],\"mode\":\"default\",\"whiteList\":[]}",
+        "key": "h5_thirdDisclaimer_rules",
+        "serializedSize": 112,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\n   \"enable\":[\"app_start\"],\n   \"timeout\":{\n       \"client_call^session_create\": 8000,\n       \"session_create^page_appear\": 4000,\n       \"session_create^firstRequest_handle\": 2000,\n       \"firstRequest_handle^firstRequest_start\": 2000,\n       \"firstRequest_start^page_start\": 8000,\n       \"page_start^page_finish\": 100000,\n       \"page_start^page_fail\": 100000\n     }\n}",
+        "key": "h5_mainLinkConfig",
+        "serializedSize": 391,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "[\n{\n  \"url\":\".*\",\n \"appId\":\"^(20000178|20000193|20000919|20000754|20000162|20000859|20000781|20000796|2014021200003129|60000146|60000098|2017072107835038|60000141|60000155)\",\n  \"code\":\"^(5|4).*\",  \"redirect\":\"https://render.alipay.com/p/f/result/index.html?type=result-busy&scene=industry_container_monitor\"\n},\n{\n  \"url\":\".*\",\n  \"appId\":\"20000920\",\n  \"code\":\"^(5|4).*\",\n \"redirect\":\"https://20000920.h5app.alipay.com/www/error.htm?from=nebulaPageError\"\n}\n]",
+        "key": "h5_routerRule4IndustryService",
+        "serializedSize": 490,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\"enabled\": \"YES\"}",
+        "key": "h5_enablePreConnectMainFrame",
+        "serializedSize": 50,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "yes",
+        "key": "h5_disableResPkgIn4",
+        "serializedSize": 26,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "YES",
+        "key": "h5_mainUrlDegrade",
+        "serializedSize": 24,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\"disable\":\"NO\",\"whiteList\":[]}",
+        "key": "h5_disableLongClick4AndroidInTiny",
+        "serializedSize": 68,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "yes",
+        "key": "h5_newLogUpload",
+        "serializedSize": 22,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "NO",
+        "key": "h5_enableNewAdjustInput",
+        "serializedSize": 29,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "45",
+        "key": "uc_httpcache_dynamic_upper_limit",
+        "serializedSize": 38,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "NO",
+        "key": "h5_filterEmptySpmId",
+        "serializedSize": 26,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "no",
+        "key": "h5_controlConcurrentPatch",
+        "serializedSize": 31,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "no",
+        "key": "h5_enable_resH5App_patch",
+        "serializedSize": 30,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\n  \"h5_use_watchShake_is_delayed\": \"no\"\n}",
+        "key": "h5_use_watchShake_delayed",
+        "serializedSize": 71,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\"enable\":\"YES\"}",
+        "key": "h5_enableNebulaAppLoadingView",
+        "serializedSize": 49,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\"waitTime\":45000, \"forceUCphoneList\":[\"OPPO#OPPO A33#22\",\"OPPO#OPPO R7sm#22\",\"OPPO#R7Plusm#22\",\"OPPO#OPPO A33m#22\",\"OPPO#OPPO A53m#22\",\"OPPO#OPPO A53#22\",\"OPPO#OPPO R7sPlus#22\",\"OPPO#A51#22\",\"OPPO#OPPO A30#22\",\"OPPO#OPPO A53t#22\"]}",
+        "key": "h5WaitUCConfig",
+        "serializedSize": 251,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "no",
+        "key": "h5_useInstall_cache",
+        "serializedSize": 25,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "NO",
+        "key": "h5_stripLandingEnable",
+        "serializedSize": 27,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "YES",
+        "key": "h5_openUCCacheLog",
+        "serializedSize": 24,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "[{\"sdkLevelRange\":{\"max\":19,\"min\":14},\"boards\":[\"MSM8974\"]}]",
+        "key": "h5_disableHWACByHardwareInfo",
+        "serializedSize": 92,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "[\"*\"]",
+        "key": "h5_ucVideoUseRawControl",
+        "serializedSize": 32,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "no",
+        "key": "h5_download_makeup",
+        "serializedSize": 24,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\"enable\":true, \"size\":1}",
+        "key": "h5_enableWebViewPool",
+        "serializedSize": 49,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\"enable\": true, \"size\":2}",
+        "key": "h5_networkBridgeThread",
+        "serializedSize": 52,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "no",
+        "key": "h5_enableErrorPageUseLottie",
+        "serializedSize": 33,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "NO",
+        "key": "h5_useNewFragmentLifecycle",
+        "serializedSize": 32,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "NO",
+        "key": "h5_ucPrecreatewebview",
+        "serializedSize": 27,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "[\"OPPO#OPPO A33#22\",\"OPPO#OPPO R7sm#22\",\"OPPO#R7Plusm#22\",\"OPPO#OPPO A33m#22\",\"OPPO#OPPO A53m#22\",\"OPPO#OPPO A53#22\",\"OPPO#OPPO R7sPlus#22\",\"OPPO#A51#22\",\"OPPO#OPPO A30#22\",\"OPPO#OPPO A53t#22\",\"OnePlus#ONE E1001#22\",\"OPPO#OPPO R9t#22\",\"OPPO#OPPO A59m#22\",\"OPPO#OPPO R7#22\",\"OPPO#OPPO R9m#22\",\"OPPO#OPPO A37m#22\",\"OPPO#OPPO R9 Plustm A#22\",\"OPPO#OPPO R9 Plust A#22\",\"OPPO#OPPO A37t#22\",\"OPPO#OPPO R9tm#22\",\"OPPO#OPPO R11#25\",\"HUAWEI#HUAWEI TIT#22\",\"lge#LG-H848#23\",\"vivo#vivo Y66#23\",\"vivo#vivo X9s Plus#25\",\"vivo#vivo Y66L#23\",\"vivo#vivo Y55A#23\",\"vivo#vivo X9#23\",\"vivo#vivo X9i#23\",\"vivo#vivo Y55A#23\",\"samsung#SM-A9000#23\",\"samsung#SM-N9200#23\",\"samsung#SM-G9350#24\",\"zuk#ZUK Z2131#23\",\"honor#CAM-AL00#23\",\"HUAWEI#HUAWEI MT7-TL00#23\",\"HUAWEI#HUAWEI MT7-TL10#23\",\"huawei#HMHA-TL00#24\",\"huawei#VIE-AL10#24\",\"lge#C106-9#23\",\"huawei#MHA-L29#24\"]",
+        "key": "h5_first_init_use_android_webView_phone",
+        "serializedSize": 888,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "YES",
+        "key": "h5_useCustomKeyboardInH5",
+        "serializedSize": 31,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "no",
+        "key": "h5_open_doc",
+        "serializedSize": 17,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "no",
+        "key": "h5_use_transaction",
+        "serializedSize": 24,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "[\"setKeyboardType\", \"setScreenBrightness\", \"getScreenBrightness\", \"saveBizServiceResult\"]",
+        "key": "h5_syncJsApi",
+        "serializedSize": 105,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "NO",
+        "key": "h5_smartlist",
+        "serializedSize": 18,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\"ucCheck\":\"YES\",\"closeCheck\":\"NO\"}",
+        "key": "h5_dslCheckConfig",
+        "serializedSize": 56,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "1",
+        "key": "h5LiteProcessKillDelay",
+        "serializedSize": 27,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\"enabled\": true, \"min_sdk\": 23, \"per_host\": 6, \"per_client\": 17}",
+        "key": "h5_ucRequestSetting",
+        "serializedSize": 88,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "[\"H5_log_appFallback\",\"h5_nebulaApp_installApp_patch\",\"h5_nebulaApp_intallApp_exception\",\"H5_APP_DOWNLOAD\"]",
+        "key": "h5_log_blackList",
+        "serializedSize": 127,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\"enableConfig\":\"YES\", \"hostList\":[\".*.wy.guahao.com\",\".*.kmjjb.cdultra.com\",\"kmjj.alipay.kmhatec.cn\"], \"2g\":60000, \"34g\":60000, \"wifi\":60000}",
+        "key": "h5_socketTimeoutConfig",
+        "serializedSize": 169,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "[\"NBComponent.render\"]",
+        "key": "h5_bugmeIgnoreConsole",
+        "serializedSize": 47,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "[\"Xiaomi#Redmi Note 2#21\",\"Xiaomi#Redmi Note 3#21\",\"Meizu#MX5#22\",\"OPPO#A51#22\",\"Meizu#m3 note#22\",\"HUAWEI#LON-AL00#24\",\"OPPO#R7Plus#21\",\"HTC#HTC X9u#21\",\"OPPO#OPPO A59s#22\",\"Meizu#m1 metal#22\",\"HTC#HTC E9pw#21\",\"HTC#HTC X9u#21\",\"Meizu#PRO 5#22\",\"HTC#HTC E9t#21\",\"motorola#XT1650-05#23\",\"HUAWEI#HUAWEI P6-T00#17\",\"HUAWEI#HUAWEI P6-T00#19\",\"Meizu#PRO 6s#23\",\"OPPO#OPPO R9m#22\",\"HTC#HTC M9e#21\",\"Letv#X608#21\",\"vivo#vivo X5V#19\",\"HTC#HTC M9pt#21\",\"vivo#vivo X7Plus#22\",\"HUAWEI#HUAWEI CAZ-AL10#24\",\"HUAWEI#HUAWEI MLA-UL00#24\",\"HUAWEI#HUAWEI MLA-AL10#24\",\"HUAWEI#HUAWEI MLA-TL00#24\",\"BBK#vivo X3S W#17\"]",
+        "key": "h5_ucDisableACCanvas",
+        "serializedSize": 624,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "YES",
+        "key": "h5_ifRedirectDNS4UC",
+        "serializedSize": 26,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "true",
+        "key": "h5_useCustomKeyboard",
+        "serializedSize": 28,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\"enable\":false}",
+        "key": "h5_asyncmonitorlog",
+        "serializedSize": 38,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "yes",
+        "key": "h5_disable_multi_unknown_crash",
+        "serializedSize": 37,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "[]",
+        "key": "h5_dynamicHWACDegrade",
+        "serializedSize": 27,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "YES",
+        "key": "androidFallbackNetwork",
+        "serializedSize": 29,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "[]",
+        "key": "h5_interceptCrashAnalyzer",
+        "serializedSize": 31,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\"useAlipayNet\":\"NO\",\"useAlipayNetWhitelist\":\"\"}",
+        "key": "h5_ucNetConfig",
+        "serializedSize": 67,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "[\"all\"]",
+        "key": "h5_open_multi_process",
+        "serializedSize": 32,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "YES",
+        "key": "h5_disableHWACByUCStyle",
+        "serializedSize": 30,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "[\"20000067\", \"20000095\"]",
+        "key": "h5_apPkgSrcWhitelist",
+        "serializedSize": 48,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "YES",
+        "key": "h5_logNebulaTechEnable",
+        "serializedSize": 29,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "onlyTinyApp",
+        "key": "h5_imageMonitor",
+        "serializedSize": 30,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "[\"H5_PAGE_PERFORMANCE|H5_AL_SESSION_FROM_NATIVE|H5_AL_SESSION_MAP_SUCCESS\",\"H5_AL_SESSION_FALLBACK|H5_GETLOCATION_RESULT\"]",
+        "key": "h5_logWebAppWhitelist",
+        "serializedSize": 147,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "YES",
+        "key": "h5_shouldverifyapp",
+        "serializedSize": 25,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "on",
+        "key": "h5_aliAutoLoginSwitch",
+        "serializedSize": 27,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\"enable\":\"yes\",\"update\":\"yes\"}",
+        "key": "h5_enableHandleRpcExcep",
+        "serializedSize": 58,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\"taobaoDomains\":\"((.*\\\\.)?(taobao|tmall|etao|hitao)\\\\.com)|((.*\\\\.)?tmall\\\\.hk)\",\"laiwangDomains\":\"((.*\\\\.)?laiwang\\\\.com)\",\"alibabaDomains\":\"((.*\\\\.)?1688\\\\.com)\",\"weiboDomains\":\"((.*\\\\.)?weibo\\\\.cn)\"}",
+        "key": "h5_ssoLogin",
+        "serializedSize": 219,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "value": "{\"mainSwitch\":\"YES\",\"jsApiSwitch\":\"NO\",\"inputWhiteListSwitch\":\"NO\",\"ssoLoginSwitch\":\"YES\"}",
+        "key": "h5_entranceWhiteListSwitch",
+        "serializedSize": 120,
+        "unknownFieldsSerializedSize": 0
+      },
+      {
+        "key" : "h5_httpRequestUseAliNet",
+        "value" : "NO"
+      },
+      {
+        "key" : "ta_checkNavigateRelation",
+        "value" : "1"
+      },
+      {
+        "value": "yes",
+        "key": "h5_enableInjectDebugConsole"
+      },
+      {
+        "key": "h5_ucInPageRenderWhiteList",
+        "value": "0^^*,map,video,camera,ai-camera,ad,live-player,live-pusher,canvas,lottieview"
+      },
+      {
+        "key": "mp_ta_use_orginal_mini_nagivationbar",
+        "value": "YES"
+      },
+      {
+        "key": "h5_mainProcKeepAlive",
+        "value": "NO"
+      },
+  {
+    "key": "ta_appx_rpc_whitelist_cfg",
+    "value": "[\"com.alipay.openapi.jsapi.invoke\"]"
+  },
+  {
+    "value": "{\"2019091667452077\":{\"appId\":\"3000000006010882\",\"appKey\":\"30405505\",\"version\":\"0.0.1\"}}",
+    "key": "mp_ap_tb_mappings"
+  },
+  {
+    "key": "mp_ap_mini_request_referer",
+    "value": "[\"2021001110699372\"]"
+  }
+]
