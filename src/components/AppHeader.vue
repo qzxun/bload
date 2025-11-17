@@ -13,6 +13,7 @@
 </template>
 
 <script setup lang="ts">
+import { ref, computed } from 'vue';
 const props = defineProps<{ color?: 'red'|'blue', placeholder?: string }>()
 const placeholder = props.placeholder ?? '搜索'
 const bgStyle = computed(()=> props.color==='blue'

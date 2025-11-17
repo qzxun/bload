@@ -47,7 +47,21 @@
         "navigationBarTitleText": "我的",
         "navigationStyle": "custom"
       }
-    }
+    },
+	{
+	  "path": "pages/loanrecord/index",
+	  "style": {
+	    "navigationBarTitleText": "借还款",
+	    "navigationStyle": "custom"
+	  }
+	},
+	{
+	  "path": "pages/repayplan/index",
+	  "style": {
+	    "navigationBarTitleText": "还款计划",
+	    "navigationStyle": "custom"
+	  }
+	}
   ],
   "entryPagePath": "pages/launchadv/index",
   "tabBar": {

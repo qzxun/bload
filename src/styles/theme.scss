@@ -15,3 +15,18 @@ $text: #1f2329; $sub:#8a8f99; $bg:#f6f7fb; $card:#ffffff; $radius: 16rpx;
 .row{ display:flex; align-items:center; }
 .space-between{ justify-content: space-between; }
 .banner{ border-radius: $radius; overflow:hidden; }
+.fontdigit {
+	font-family: 'fontdigit';
+}
+@font-face {
+  font-family: 'fontdigit';
+  src: url('@/static/fonts/D-DIN-PRO-400-Regular.otf');
+}
+
+.fontdefault {
+	font-family: Roboto, sans-serif;
+}
+@font-face {
+  font-family: 'fontdefault';
+  src: url('@/static/fonts/HarmonyOS_Sans_TC_Regular.ttf');
+}

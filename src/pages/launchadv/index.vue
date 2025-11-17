@@ -28,10 +28,7 @@ function goNext() {
   if (finished) return
   finished = true
   clearTimer()
-  const target = isGestureSet()
-    ? '/pages/lock/index?mode=verify'
-    : '/pages/lock/index?mode=set'
-  uni.reLaunch({ url: target })
+  uni.switchTab({ url: '/pages/home/index' })
 }
 
 function skip() {
